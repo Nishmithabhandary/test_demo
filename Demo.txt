@@ -1,1 +1,2 @@
 git init will create a new local GIT repository. 
+The git add command adds new or changed files in your working directory to the Git staging area.
